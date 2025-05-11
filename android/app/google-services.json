@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "548563707987",
+    "project_id": "app-yard-demo",
+    "storage_bucket": "app-yard-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548563707987:android:317dd4e1102ecac808fea6",
+        "android_client_info": {
+          "package_name": "com.alex.appyard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548563707987-aqa59jii7sob9v6mtbi527kc1jta99uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alex.appyard",
+            "certificate_hash": "ad91006288b1aef8d746265e377a5bdacb26c64a"
+          }
+        },
+        {
+          "client_id": "548563707987-i8v9g93oplsjmb626aq0s2n7tnn000t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alex.appyard",
+            "certificate_hash": "e0d94efadeffafc3231217df1be614da476be325"
+          }
+        },
+        {
+          "client_id": "548563707987-qgf08fd9u73v7isq2fdp36c34bgjk2d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alex.appyard",
+            "certificate_hash": "379227a0718af74b0bee023c846e7e389b632558"
+          }
+        },
+        {
+          "client_id": "548563707987-ldb5g2h9382vd7cfaeb5qm2l27m2obl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu04htkxZAZkTP5ENFZJwQQZzAQ2kTWsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548563707987-ldb5g2h9382vd7cfaeb5qm2l27m2obl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548563707987-ra1pd2fcejarv50kqntamqdou80e1l0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alex.appyard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

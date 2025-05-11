@@ -11,12 +11,15 @@
     "ios": {
       "supportsTablet": true
     },
+    "jsEngine": "jsc",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.alex.appyard",
+      "googleServicesFile": "./android/app/google-services.json"
     },
     "web": {
       "bundler": "metro",
@@ -33,10 +36,20 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      [
+        "@react-native-google-signin/google-signin"
+      ],
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a2336272-6a81-472a-bda9-a46d3917dba6"
+      }
     }
   }
 }
